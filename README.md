@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **React Projects**
 
-- 🤝 I’m looking for help with **React / Javascript Projects**
+- 🤝 I’m looking for help with **Freelance Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sfa129](https://github.com/sfa129)
 
