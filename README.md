@@ -1,5 +1,5 @@
 <h1 align="center">Hello Proletariats 👋, I'm SYED FAIZ AHMED</h1>
-<h3 align="center">React / MERN Stack Developer!</h3>
+<h3 align="center">MERN Stack / Next.js Developer!</h3>
 
 - 🔭 I’m currently working on **React**
 
