@@ -1,29 +1,199 @@
-<h1 align="center">Hello Proletariats 👋, I'm SYED FAIZ AHMED</h1>
-<h3 align="center">MERN Stack / Next.js Developer!</h3>
+<h1 align="center">Hello 👋, I'm SYED FAIZ AHMED</h1>
 
-- 🔭 I’m currently working on **React**
+<h3 align="center">Junior DevOps Engineer | AWS | Docker | Kubernetes | CI/CD | Linux</h3>
 
-- 🌱 I’m currently learning **Next.js / Node.js**
-
-- 👯 I’m looking to collaborate on **React.js / Next.js Projects**
-
-- 🤝 I’m looking for help with **Freelancing Projects**
-
-- 👨‍💻 All of my projects are available at [https://github.com/sfa129](https://github.com/sfa129)
-
-- 💬 Ask me about **React.js / Next.js**
-
-- 📫 How to reach me **sfahmed129@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/syed-faiz-ahmed-8a4933173/](https://www.linkedin.com/in/syed-faiz-ahmed-8a4933173/)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/syed-faiz-ahmed-8a4933173/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syed-faiz-ahmed-8a4933173/" height="30" width="40" /></a>
-<a href="https://fb.com/profile.php?id=100012427124809" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100012427124809" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://linkedin.com/in/syed-faiz-ahmed-8a4933173/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/sfa129" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-sfa129-black?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sfa129&show_icons=true&locale=en&layout=compact" alt="sfa129" /></p>
+## 👨‍💻 About Me
+
+I'm an **aspiring Junior DevOps Engineer** with a background in Computer Science and hands-on experience in web application development.
+
+I'm focused on building practical skills in **Cloud Computing, Linux, Containerization, CI/CD, Infrastructure, Monitoring, and Automation**.
+
+### 🚀 DevOps Skills
+
+* ☁️ **Cloud:** AWS
+* 🐧 **Operating System:** Linux
+* 🐳 **Containerization:** Docker
+* ☸️ **Orchestration:** Kubernetes
+* 🔄 **CI/CD:** GitHub Actions
+* 🔍 **Code Quality:** SonarQube
+* 📊 **Monitoring:** Prometheus & Grafana
+* 🌿 **Version Control:** Git & GitHub
+* 🖥️ **Scripting & CLI:** Linux Command Line / Shell Fundamentals
+
+### 🌐 Development Background
+
+My previous development experience includes:
+
+* React.js
+* Node.js
+* Express.js
+* MongoDB
+* JavaScript
+* REST APIs
+* Redux Toolkit
+* HTML5 / CSS3
+* Tailwind CSS
+
+This development background helps me understand the complete application lifecycle — from **development and source control to containerization, CI/CD, deployment, and monitoring**.
+
+---
+
+## 🔧 Technologies & Tools
+
+<p align="left">
+
+<a href="https://aws.amazon.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="50"/>
+</a>
+
+<a href="https://www.linux.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>
+</a>
+
+<a href="https://www.docker.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" height="50"/>
+</a>
+
+<a href="https://kubernetes.io/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="Kubernetes" width="50" height="50"/>
+</a>
+
+<a href="https://github.com/features/actions" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" width="50" height="50"/>
+</a>
+
+<a href="https://www.sonarsource.com/products/sonarqube/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sonarqube/sonarqube-original-wordmark.svg" alt="SonarQube" width="50" height="50"/>
+</a>
+
+<a href="https://prometheus.io/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original-wordmark.svg" alt="Prometheus" width="50" height="50"/>
+</a>
+
+<a href="https://grafana.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="Grafana" width="50" height="50"/>
+</a>
+
+<a href="https://git-scm.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
+</a>
+
+<a href="https://github.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
+</a>
+
+<a href="https://www.javascript.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+</a>
+
+<a href="https://react.dev/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50"/>
+</a>
+
+<a href="https://nodejs.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="50" height="50"/>
+</a>
+
+<a href="https://www.mongodb.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50"/>
+</a>
+
+</p>
+
+---
+
+## 🚀 DevOps Projects
+
+### 🔄 CI/CD Pipeline with GitHub Actions
+
+**GitHub Actions · Docker · SonarQube · Linux · Git**
+
+* Automated application build and validation using GitHub Actions.
+* Created CI/CD workflows for automated development pipelines.
+* Integrated SonarQube for source-code quality analysis.
+* Containerized applications using Docker.
+* Used GitHub for source-code management and workflow automation.
+
+### 🐳 Docker & Kubernetes Deployment
+
+**Docker · Kubernetes · Linux**
+
+* Containerized applications using Docker.
+* Created Dockerfiles and managed Docker images and containers.
+* Created Kubernetes Deployments and Services.
+* Practiced application deployment and scaling using Kubernetes.
+* Used Linux CLI for container and deployment troubleshooting.
+
+### ☁️ AWS Cloud Infrastructure
+
+**AWS · EC2 · S3 · IAM · VPC · CloudWatch · Linux**
+
+* Practiced deploying and managing workloads on AWS.
+* Worked with EC2 instances and Linux-based servers.
+* Practiced AWS IAM users, roles, and permissions.
+* Worked with S3 for object storage.
+* Studied VPC, subnets, security groups, and basic cloud networking.
+* Used CloudWatch concepts for infrastructure monitoring.
+
+### 📊 Monitoring with Prometheus & Grafana
+
+**Prometheus · Grafana · Linux · Docker**
+
+* Configured Prometheus for collecting infrastructure/application metrics.
+* Created Grafana dashboards for monitoring and visualization.
+* Practiced identifying system resource and application performance issues.
+* Worked with containerized monitoring components.
+
+---
+
+## 🌱 Currently Focusing On
+
+* ☁️ AWS Cloud Infrastructure
+* 🐧 Linux Administration
+* 🐳 Docker & Containerization
+* ☸️ Kubernetes
+* 🔄 CI/CD Automation
+* 🔐 DevSecOps Fundamentals
+* 📊 Monitoring & Observability
+* 🚀 Cloud Deployment & Automation
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+
+<a href="https://linkedin.com/in/syed-faiz-ahmed-8a4933173/" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+</a>
+
+<a href="https://github.com/sfa129" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" height="30" width="40" />
+</a>
+
+</p>
+
+📧 **Email:** [sfahmed129@gmail.com](mailto:sfahmed129@gmail.com)
+
+---
+
+## 📊 GitHub Stats
+
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=sfa129&show_icons=true&locale=en" alt="sfa129" />
+</p>
+
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sfa129&show_icons=true&locale=en&layout=compact" alt="sfa129" />
+</p>
