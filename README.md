@@ -54,63 +54,75 @@ This development background helps me understand the complete application lifecyc
 <p align="left">
 
 <a href="https://aws.amazon.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="35" height="35" gap="5"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
 </a>
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.linux.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux"  width="35" height="35"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
 </a>
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.docker.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker"  width="35" height="35"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
 </a>
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://kubernetes.io/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="Kubernetes" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="Kubernetes" width="40" height="40"/>
 </a>
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://github.com/features/actions" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" width="40" height="40"/>
 </a>
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.sonarsource.com/products/sonarqube/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sonarqube/sonarqube-original-wordmark.svg" alt="SonarQube" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sonarqube/sonarqube-original-wordmark.svg" alt="SonarQube" width="40" height="40"/>
 </a>
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://prometheus.io/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original-wordmark.svg" alt="Prometheus" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original-wordmark.svg" alt="Prometheus" width="40" height="40"/>
 </a>
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://grafana.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="Grafana" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="Grafana" width="40" height="40"/>
 </a>
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://git-scm.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
 </a>
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://github.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
 </a>
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.javascript.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
 </a>
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://react.dev/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
 </a>
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://nodejs.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
 </a>
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.mongodb.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
 </a>
 
 </p>
-
 ---
 
 ## 🚀 DevOps Projects
