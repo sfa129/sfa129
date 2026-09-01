@@ -198,14 +198,3 @@ This development background helps me understand the complete application lifecyc
 
 📧 **Email:** [sfahmed129@gmail.com](mailto:sfahmed129@gmail.com)
 
----
-
-## 📊 GitHub Stats
-
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=sfa129&show_icons=true&locale=en" alt="sfa129" />
-</p>
-
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sfa129&show_icons=true&locale=en&layout=compact" alt="sfa129" />
-</p>
