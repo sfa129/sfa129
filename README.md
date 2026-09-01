@@ -54,7 +54,7 @@ This development background helps me understand the complete application lifecyc
 <p align="left">
 
 <a href="https://aws.amazon.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="35" height="35"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="35" height="35" gap="5"/>
 </a>
 
 <a href="https://www.linux.org/" target="_blank">
